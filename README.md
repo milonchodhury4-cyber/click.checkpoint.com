@@ -1,2 +1,2 @@
 # click.checkpoint.com
-##subdomain takeover by milonsec101
+## subdomain takeover by milonsec101
